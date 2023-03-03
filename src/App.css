@@ -1,0 +1,21 @@
+.banner {
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+    url(../public/images/bg_4.jpg.webp);
+  height: 90vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.Addform input {
+  padding: 5px;
+  width: 90%;
+}
+.Addform textarea {
+  padding: 5px;
+  width: 90%;
+  height: 100px;
+}
+.block {
+  width: 250px;
+  height: 150px;
+}
